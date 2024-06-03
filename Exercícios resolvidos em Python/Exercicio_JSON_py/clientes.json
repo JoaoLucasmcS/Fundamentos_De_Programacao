@@ -1,0 +1,32 @@
+[
+    {
+        "Nome": "Joao Lucas",
+        "Idade": "19",
+        "Email": "joao@example.com"
+    },
+    {
+        "Nome": "Antonio Lima",
+        "Idade": "33",
+        "Email": "antonioL@example.com"
+    },
+    {
+        "Nome": "Jorge Henrique",
+        "Idade": "22",
+        "Email": "JorgeH@example.com"
+    },
+    {
+        "Nome": "Messias Daniel",
+        "Idade": "23",
+        "Email": "MessiasDoao@example.com"
+    },
+    {
+        "Nome": "Soraka Nerfada",
+        "Idade": "19",
+        "Email": "Soraka@example.com"
+    },
+    {
+        "Nome": "Tubarao Barbatana",
+        "Idade": "19",
+        "Email": "Tubarao@example.com"
+    }
+]
