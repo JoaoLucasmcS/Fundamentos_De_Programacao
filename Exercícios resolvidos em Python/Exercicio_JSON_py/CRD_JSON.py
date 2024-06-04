@@ -22,6 +22,7 @@ def cadastrar_clientes(nome , idade , email):
 def listar_clientes():
     with open(arquivo, 'r', encoding='utf-8') as arquivo_json:
         clientes = json.load(arquivo_json)
+
     print(json.dumps(clientes, indent=4, ensure_ascii=False))    
 
 
@@ -31,9 +32,10 @@ def deletar_cliente(nome_cliente_removido):
         clientes = json.load(arquivo_json)
 
     for usuario in clientes:
-        if usuario['Nome'] == nome_cliente_removido:
+        if usuario['nome'] == nome_cliente_removido:
             clientes.remove(usuario)
             break
+    
 
     with open(arquivo, 'w') as arquivo_json:
         json.dump(clientes, arquivo_json, indent=4)

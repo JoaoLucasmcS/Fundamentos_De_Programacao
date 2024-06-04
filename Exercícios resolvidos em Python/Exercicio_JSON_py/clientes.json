@@ -1,32 +1,42 @@
 [
     {
-        "Nome": "Joao Lucas",
+        "nome": "Joao Lucas",
         "Idade": "19",
         "Email": "joao@example.com"
     },
     {
-        "Nome": "Antonio Lima",
+        "nome": "Antonio Lima",
         "Idade": "33",
         "Email": "antonioL@example.com"
     },
     {
-        "Nome": "Jorge Henrique",
+        "nome": "Jorge Henrique",
         "Idade": "22",
         "Email": "JorgeH@example.com"
     },
     {
-        "Nome": "Messias Daniel",
+        "nome": "Messias Daniel",
         "Idade": "23",
         "Email": "MessiasDoao@example.com"
     },
     {
-        "Nome": "Soraka Nerfada",
+        "nome": "Soraka Nerfada",
         "Idade": "19",
         "Email": "Soraka@example.com"
     },
     {
-        "Nome": "Tubarao Barbatana",
+        "nome": "Tubarao Barbatana",
         "Idade": "19",
         "Email": "Tubarao@example.com"
+    },
+    {
+        "nome": "Yan",
+        "idade": "20",
+        "email": "yan@gmail.com"
+    },
+    {
+        "nome": "ricardo",
+        "idade": "22",
+        "email": "ric@example.com"
     }
 ]
